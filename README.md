@@ -1,6 +1,6 @@
 # Godette Engine
 
-![godette](https://user-images.githubusercontent.com/40332795/113324861-e591ca80-9317-11eb-942c-02274b612445.png)
+![godette](https://user-images.githubusercontent.com/40332795/113325395-a7e17180-9318-11eb-9393-406cb33d9e74.png)
 
 ## 2D and 3D cross-platform game engine
 
