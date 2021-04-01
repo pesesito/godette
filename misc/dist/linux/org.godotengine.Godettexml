@@ -7,7 +7,7 @@
   </mime-type>
 
   <mime-type type="application/x-godot-resource">
-    <comment>Godot Engine resource</comment>
+    <comment>Godette Engine resource</comment>
     <icon name="x-godot-resource" />
     <glob pattern="*.res"/>
     <glob pattern="*.tres"/>
