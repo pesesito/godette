@@ -1,10 +1,6 @@
 # Godette Engine
 
-<p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo.svg" width="400" alt="Godot Engine logo">
-  </a>
-</p>
+![godette](https://user-images.githubusercontent.com/40332795/113324861-e591ca80-9317-11eb-942c-02274b612445.png)
 
 ## 2D and 3D cross-platform game engine
 
