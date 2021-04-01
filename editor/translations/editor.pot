@@ -78,7 +78,7 @@ msgstr ""
 #: core/ustring.cpp
 msgid "PiB"
 msgstr ""
-a
+
 #: core/ustring.cpp
 msgid "EiB"
 msgstr ""
