@@ -2114,7 +2114,7 @@ void ProjectManager::_open_selected_projects_ask() {
 
 	// Check if the config_version property was empty or 0
 	if (config_version == 0) {
-		ask_update_settings->set_text(vformat(TTR("The following project settings file does not specify the version of Godot through which it was created.\n\n%s\n\nIf you proceed with opening it, it will be converted to Godot's current configuration file format.\nWarning: You won't be able to open the project with previous versions of the engine anymore."), conf));
+		ask_update_settings->set_text(vformat(TTR("The following project settings file does not specify the version of Godette through which it was created.\n\n%s\n\nIf you proceed with opening it, it will be converted to Godette's current configuration file format.\nWarning: You won't be able to open the project with previous versions of the engine anymore."), conf));
 		ask_update_settings->popup_centered_minsize();
 		return;
 	}
@@ -2363,7 +2363,7 @@ void ProjectManager::_files_dropped(PoolStringArray p_files, int p_screen) {
 			multi_scan_ask->get_ok()->disconnect("pressed", this, "_scan_multiple_folders");
 			multi_scan_ask->get_ok()->connect("pressed", this, "_scan_multiple_folders", varray(folders));
 			multi_scan_ask->set_text(
-					vformat(TTR("Are you sure to scan %s folders for existing Godot projects?\nThis could take a while."), folders.size()));
+					vformat(TTR("Are you sure to scan %s folders for existing Godette projects?\nThis could take a while."), folders.size()));
 			multi_scan_ask->popup_centered_minsize();
 		} else {
 			_scan_multiple_folders(folders);
@@ -2515,7 +2515,7 @@ ProjectManager::ProjectManager() {
 	String cp;
 	cp += 0xA9;
 	// TRANSLATORS: This refers to the application where users manage their Godot projects.
-	OS::get_singleton()->set_window_title(VERSION_NAME + String(" - ") + TTR("Project Manager") + " - " + cp + " 2007-2021 Juan Linietsky, Ariel Manzur & Godot Contributors");
+	OS::get_singleton()->set_window_title(VERSION_NAME + String(" - ") + TTR("Project Manager") + " - " + cp + " 2007-2021 Juan Linietsky, Ariel Manzur & Godette Contributors");
 
 	Control *center_box = memnew(Control);
 	center_box->set_v_size_flags(SIZE_EXPAND_FILL);
