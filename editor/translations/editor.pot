@@ -1,7 +1,7 @@
-# LANGUAGE translation of the Godot Engine editor.
+# LANGUAGE translation of the Godette Engine editor.
 # Copyright (c) 2007-2021 Juan Linietsky, Ariel Manzur.
-# Copyright (c) 2014-2021 Godot Engine contributors (cf. AUTHORS.md).
-# This file is distributed under the same license as the Godot source code.
+# Copyright (c) 2014-2021 Godette Engine contributors (cf. AUTHORS.md).
+# This file is distributed under the same license as the Godette source code.
 #
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
@@ -1073,11 +1073,11 @@ msgid "Change Dictionary Value"
 msgstr ""
 
 #: editor/editor_about.cpp
-msgid "Thanks from the Godot community!"
+msgid "Thanks from the Godette community!"
 msgstr ""
 
 #: editor/editor_about.cpp
-msgid "Godot Engine contributors"
+msgid "Godette Engine contributors"
 msgstr ""
 
 #: editor/editor_about.cpp
@@ -1149,7 +1149,7 @@ msgstr ""
 
 #: editor/editor_about.cpp
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Godette Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following "
 "is an exhaustive list of all such third-party components with their "
 "respective copyright statements and license terms."
@@ -1716,7 +1716,7 @@ msgid "Erase Profile"
 msgstr ""
 
 #: editor/editor_feature_profile.cpp
-msgid "Godot Feature Profile"
+msgid "Godette Feature Profile"
 msgstr ""
 
 #: editor/editor_feature_profile.cpp
@@ -3466,7 +3466,7 @@ msgid "Select Template File"
 msgstr ""
 
 #: editor/export_template_manager.cpp
-msgid "Godot Export Templates"
+msgid "Godette Export Templates"
 msgstr ""
 
 #: editor/export_template_manager.cpp
@@ -4985,7 +4985,7 @@ msgstr ""
 
 #: editor/plugins/baked_lightmap_editor_plugin.cpp
 msgid ""
-"Godot editor was built without ray tracing support, lightmaps can't be baked."
+"Godette editor was built without ray tracing support, lightmaps can't be baked."
 msgstr ""
 
 #: editor/plugins/baked_lightmap_editor_plugin.cpp
@@ -6730,7 +6730,7 @@ msgid "Debug with External Editor"
 msgstr ""
 
 #: editor/plugins/script_editor_plugin.cpp
-msgid "Open Godot online documentation."
+msgid "Open Godette online documentation."
 msgstr ""
 
 #: editor/plugins/script_editor_plugin.cpp
@@ -9096,7 +9096,7 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
-"Custom Godot Shader Language expression, with custom amount of input and "
+"Custom Godette Shader Language expression, with custom amount of input and "
 "output ports. This is a direct injection of code into the vertex/fragment/"
 "light function, do not use it to write the function declarations inside."
 msgstr ""
@@ -9109,7 +9109,7 @@ msgstr ""
 
 #: editor/plugins/visual_shader_editor_plugin.cpp
 msgid ""
-"Custom Godot Shader Language expression, which is placed on top of the "
+"Custom Godette Shader Language expression, which is placed on top of the "
 "resulted shader. You can place various function definitions inside and call "
 "it later in the Expressions. You can also declare varyings, uniforms and "
 "constants."
@@ -9327,7 +9327,7 @@ msgid "ZIP File"
 msgstr ""
 
 #: editor/project_export.cpp
-msgid "Godot Game Pack"
+msgid "Godette Game Pack"
 msgstr ""
 
 #: editor/project_export.cpp
@@ -9364,7 +9364,7 @@ msgid "Please choose a \"project.godot\" or \".zip\" file."
 msgstr ""
 
 #: editor/project_manager.cpp
-msgid "This directory already contains a Godot project."
+msgid "This directory already contains a Godette project."
 msgstr ""
 
 #: editor/project_manager.cpp
@@ -9507,12 +9507,12 @@ msgstr ""
 
 #: editor/project_manager.cpp
 msgid ""
-"The following project settings file does not specify the version of Godot "
+"The following project settings file does not specify the version of Godette "
 "through which it was created.\n"
 "\n"
 "%s\n"
 "\n"
-"If you proceed with opening it, it will be converted to Godot's current "
+"If you proceed with opening it, it will be converted to Godette's current "
 "configuration file format.\n"
 "Warning: You won't be able to open the project with previous versions of the "
 "engine anymore."
@@ -9579,11 +9579,11 @@ msgstr ""
 
 #: editor/project_manager.cpp
 msgid ""
-"Are you sure to scan %s folders for existing Godot projects?\n"
+"Are you sure to scan %s folders for existing Godette projects?\n"
 "This could take a while."
 msgstr ""
 
-#. TRANSLATORS: This refers to the application where users manage their Godot projects.
+#. TRANSLATORS: This refers to the application where users manage their Godette projects.
 #: editor/project_manager.cpp
 msgid "Project Manager"
 msgstr ""
@@ -11698,8 +11698,8 @@ msgstr ""
 
 #: platform/android/export/export.cpp
 msgid ""
-"Invalid \"GodotPaymentV3\" module included in the \"android/modules\" "
-"project setting (changed in Godot 3.2.2).\n"
+"Invalid \"GodettePaymentV3\" module included in the \"android/modules\" "
+"project setting (changed in Godette 3.2.2).\n"
 msgstr ""
 
 #: platform/android/export/export.cpp
@@ -11748,7 +11748,7 @@ msgstr ""
 msgid ""
 "Android build version mismatch:\n"
 "   Template installed: %s\n"
-"   Godot Version: %s\n"
+"   Godette Version: %s\n"
 "Please reinstall Android build template from 'Project' menu."
 msgstr ""
 
