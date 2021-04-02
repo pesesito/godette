@@ -1,8 +1,8 @@
-# Godot Engine
+# Godette Engine
 
 <p align="center">
   <a href="https://godotengine.org">
-    <img src="logo.svg" width="400" alt="Godette Engine logo">
+    <img src="./logo.svg" width="400" alt="Godette Engine logo">
   </a>
 </p>
 
